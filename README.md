@@ -28,8 +28,8 @@ render(
 
 First of all, you need the latest version of a modern web browser, such as Google
 Chrome or Mozilla Firefox:
-• Google Chrome: https://www.google.com/chrome/browser
-• Mozilla Firefox: https://www.mozilla.org/en-US/firefox/new/
+* Google Chrome: https://www.google.com/chrome/browser
+* Mozilla Firefox: https://www.mozilla.org/en-US/firefox/new/
 Second, you will need to install Git, Node.js, and npm. You will fi nd detailed instructions on how to install and use them in Chapter 2, Installing Powerful Tools for Your Project. Finally, you will need a code editor. I recommend Sublime Text (http://www. sublimetext.com). Alternatively, you can use Atom (https://atom.io), Brackets (http://brackets.io), Visual Studio Code (https://code.visualstudio.com), or any other editor of your choice.
 
 ## Related Products
