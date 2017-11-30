@@ -1,0 +1,30 @@
+{
+  "name": "snapterest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack -p --config webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^7.3.0",
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.0",
+    "vinyl-source-stream": "^1.1.0",
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {
+    "flux": "^2.1.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "snapkite-stream-client": "^1.0.3"
+  }
+}
